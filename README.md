@@ -1,16 +1,18 @@
 <h1 align="center"> Henrique Gouvea  </h1>
 
 
-**Henrique-Gouvea/Henrique-Gouvea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import Desenvolvedor from 'Henrique-Gouvea';
 
-Here are some ideas to get you started:
+class SobreMim extends Desenvolvedor {
+  nome     = 'Henrique Gouvea Bonfim';
+  area    = 'Estudante de desenvolvimento Full Stack';
+<!--   trabalho  = 'Onde trabalha'; -->
+  curso = 'Trybe'
+  local = 'Santa Rita do Sapucai - MG';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+class Skills extends Desenvolvedor {
+  linguagens  = ['JavaScript'];
+  bibliotecas  = ['React'];
+  frameworks = ['Bootstrap'];
+}
