@@ -6,12 +6,10 @@ import Desenvolvedor from 'Henrique-Gouvea';
 
 class SobreMim extends Desenvolvedor {
 
- nome     = 'Henrique Gouvea Bonfim';
+  nome = 'Henrique Gouvea Bonfim';
  
-  area    = 'Estudante de desenvolvimento Full Stack';
+  area = 'Estudante de desenvolvimento Full Stack';
   
-<!--   trabalho  = 'Onde trabalha'; -->
-
   curso = 'Trybe'
   
   local = 'Santa Rita do Sapucai - MG';
@@ -21,9 +19,9 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
 
-  linguagens  = ['JavaScript'];
+  linguagens = ['JavaScript'];
   
-  bibliotecas  = ['React'];
+  bibliotecas = ['React'];
   
   frameworks = ['Bootstrap'];
   
