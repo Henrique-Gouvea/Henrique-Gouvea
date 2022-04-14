@@ -23,7 +23,7 @@ class Skills extends Desenvolvedor {
   
   bibliotecas = ['React'];
   
-  frameworks = ['Bootstrap'];
+  frameworks = ['Bootstrap '];
   
 }
 ```
