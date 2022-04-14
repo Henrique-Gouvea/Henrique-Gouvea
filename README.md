@@ -3,6 +3,7 @@
 
 import Desenvolvedor from 'Henrique-Gouvea';
 
+
 class SobreMim extends Desenvolvedor {
 
  nome     = 'Henrique Gouvea Bonfim';
@@ -17,8 +18,13 @@ class SobreMim extends Desenvolvedor {
   
 }
 
+
 class Skills extends Desenvolvedor {
+
   linguagens  = ['JavaScript'];
+  
   bibliotecas  = ['React'];
+  
   frameworks = ['Bootstrap'];
+  
 }
