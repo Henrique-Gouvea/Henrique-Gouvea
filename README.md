@@ -14,6 +14,8 @@ class SobreMim extends Desenvolvedor {
   
   local = 'Santa Rita do Sapucai - MG';
   
+  email = 'henrque.bonfim2@gmail.com'
+  
 }
 
 
@@ -24,6 +26,8 @@ class Skills extends Desenvolvedor {
   bibliotecas = ['React'];
   
   frameworks = ['Bootstrap'];
+  
+  plataformas = ['Docker']
   
 }
 ```
