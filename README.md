@@ -25,7 +25,7 @@ class Skills extends Desenvolvedor {
   
   bibliotecas = ['React'];
   
-  frameworks = ['Bootstrap', Node];
+  frameworks = ['Bootstrap', 'Node'];
   
   plataformas = ['Docker']
   
