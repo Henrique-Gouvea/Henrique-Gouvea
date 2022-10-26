@@ -21,13 +21,17 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
 
-  linguagens = ['JavaScript', 'TypeScript'];
+  linguagens = ['JavaScript', 'TypeScript', 'Python'];
   
-  bibliotecas = ['React'];
+  bibliotecas = ['React', 'Chai', 'Jest'];
   
   frameworks = ['Bootstrap', 'Node'];
   
-  plataformas = ['Docker']
+  plataformas = ['Docker'];
+
+  ferramentas = ['Slack', 'GitHub', 'VsCode', 'Trello', 'Linux'];
+
+  bancoDeDados = ['MySQL', 'MongoDB']
   
 }
 ```
