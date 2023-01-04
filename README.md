@@ -7,10 +7,6 @@ import Desenvolvedor from 'Henrique-Gouvea';
 class SobreMim extends Desenvolvedor {
 
   nome = 'Henrique Gouvea Bonfim';
- 
-  area = 'Estudante de desenvolvimento Full Stack';
-  
-  curso = 'Trybe'
   
   local = 'Santa Rita do Sapucai - MG';
   
